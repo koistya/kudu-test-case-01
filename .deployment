@@ -1,0 +1,2 @@
+[config]
+command = npm install gulp -g && gulp build --release
